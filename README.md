@@ -6,7 +6,7 @@ Alfred 3 workflows library for Go
 First, install `alfred-go`
 
 ```shell
-$ go get github.com/endotakuya/alfred-go
+$ go get github.com/endotakuya/alfred-go/...
 ```
 
 Usage
